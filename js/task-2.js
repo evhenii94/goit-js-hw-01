@@ -1,5 +1,4 @@
 function getShippingMessage(country, price, deliveryFee) {
-	console.log(makeTransaction); 
 
 	return `Shipping to ${country} will cost ${price + deliveryFee} credits`;
 }
